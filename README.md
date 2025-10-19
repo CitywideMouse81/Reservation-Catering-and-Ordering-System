@@ -4,7 +4,7 @@ A modern React-based web application for managing catering reservations and orde
 
 🚀 Live Demo
 
-Check out the live application: heroic-valkyrie-6e5796.netlify.app
+Check out the live application: https://heroic-valkyrie-6e5796.netlify.app
 
 ✨ Features
 
